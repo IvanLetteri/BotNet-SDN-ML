@@ -1,5 +1,6 @@
-# BotNet-SDN-ML
-Sources for Botnet detection experiments on SDN networks through Machine Lerarning techinques
+This folder contains the entire dataset used to test the neural networks.
 
-![CC-BY-SA-4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
-This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
+The dataset has been derived from the [Hogzilla dataset](http://ids-hogzilla.org/dataset/) by considering a subset of features that can be extracted in a SDN using OpenFlow calls.
+
+The *Entire_Dataset* contains exactly 90% of normal and 10% botnet traffic samples. 
+
